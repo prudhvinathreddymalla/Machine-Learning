@@ -1,0 +1,1 @@
+On the wine dataset, the classification algorithms are performed. Decision Tree classification and Random forest regression are applied on the dataset. The quality of the red wine is predicted using these three algorithms.
